@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>
+ONA'S Website!
+</title>
+
+</head>
+
+<body>
+
+<center><b>Wonderful World Of Flowers!</b></center>
+
+<hr/>
+<center>
+<a href="index.html">My home</a> &nbsp; &nbsp; &nbsp;
+<a href="about.html">About our flowers</a> &nbsp; &nbsp; &nbsp;
+<a href="contact.html">Contact us</a>
+</center>
+<hr/>
+<img src="images/buttercup.jpg" width="200px"/> 
+<img src="images/daffodils.jpg" width="200px"/>
+<img src="images/daisy.jpg" width="200px"/>
+<img src="images/dandelion.jpg" width="200px"/>
+<img src="images/hibiscus.jpg" width="200px"/>
+<img src="images/lavender.jpg" width="200px"/>
+<img src="images/lily.jpg" width="200px"/>
+<img src="images/rose.jpg" width="200px"/>
+<img src="images/sunflower.jpg" width="200px"/>
+<img src="images/tulips.jpg" width="200px"/>
+</body>
+
+
+
+<hr/>
+<h3>
+<p>
+</p>
+<center>
+If you liked 'Wonderful World Of Flowers!' I bet you will love <a href="Fashion Project index">'J.J's Fashion Store!'<a/>
+</html>
